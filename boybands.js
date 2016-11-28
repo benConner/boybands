@@ -27,6 +27,3 @@ for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
   currentVeggie = veggieElement.innerHTML += "<div>" + vegetables[loopTracker] + "</div>" ;
 }
 
-// for (var i = 0; i < reindeer.length; i++) {
-// 	hohohoElement.innerHTML += "<div>" + colors[i] + " " + reindeer[i] + "</div>";
-// }
